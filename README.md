@@ -41,7 +41,7 @@ A role-based project management application built with Next.js, React, and TypeS
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sagargopi/project-tracker.git
+   git clone https://github.com/sagargopi/Project-Tracker.git
    cd project-tracker
    ```
 
